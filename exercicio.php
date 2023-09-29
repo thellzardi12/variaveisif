@@ -1,8 +1,8 @@
 <?php
 
 //declaração de variáveis
-$num1 = 44;
-$num2 = 6;
+$num1 = 23;
+$num2 = 2;
 
 //declaração de pessoa
 $pes1 = "Thell";
